@@ -1,6 +1,6 @@
 # CDK Template of Lambda with Static IP
 
-This template demonstrates how to create an AWS Lambda function with a static IP address using AWS CDK.
+This template demonstrates how to create an AWS Lambda function with a static IP address using AWS CDK. This project was inspired by the blog post [Deploy a Lambda with a static IP for FREE](https://dev.to/slsbytheodo/deploy-a-lambda-with-a-static-ip-for-free-4e0l).
 
 ## Project Structure
 
